@@ -2,7 +2,7 @@
   "name": "@wristband/node-m2m-auth",
   "description": "An SDK that lets Wristband Machine-to-machine OAuth2 clients retrieve and cache an access token in NodeJS.",
   "author": "Wristband",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "private": false,
   "homepage": "https://wristband.dev",
