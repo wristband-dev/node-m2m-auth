@@ -26,7 +26,7 @@
 [![npm package](https://img.shields.io/badge/npm%20i-@wristband/node--m2m--auth-brightgreen)](https://www.npmjs.com/package/@wristband/node-m2m-auth)
 [![version number](https://img.shields.io/github/v/release/wristband-dev/node-m2m-auth?color=green&label=version)](https://github.com/wristband-dev/node-m2m-auth/releases)
 [![Actions Status](https://github.com/wristband-dev/node-m2m-auth/workflows/Test/badge.svg)](https://github.com/wristband-dev/node-m2m-auth/actions)
-[![License](https://img.shields.io/github/license/wristband-dev/node-m2m-auth)](https://github.com/wristband-dev/node-m2m-auth/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/wristband-dev/node-m2m-auth)](https://github.com/wristband-dev/node-m2m-auth/blob/main/LICENSE)
 
 
 
